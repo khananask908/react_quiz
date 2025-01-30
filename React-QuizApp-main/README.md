@@ -35,7 +35,8 @@ As you answer questions, the app instantly updates your score and provides a com
 1. Clone the repository:
 
     ```bash
-  https://github.com/khananask908/react_quiz.git
+    https://github.com/khananask908/react_quiz.git
+ 
     ```
 
 2. Install dependencies:
